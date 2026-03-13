@@ -4,9 +4,9 @@ The README preview issue was definitely the HTML `<br>` tag in the heading. My f
 
 However, if you're still having issues, here's an even simpler version that **guarantees** no rendering problems:
 
-```markdown
-# 📋 Todo List with Reminders
-## A Smart Chrome Extension for Task Management
+
+📋 Todo List with Reminders
+A Smart Chrome Extension for Task Management
 
 <p align="center">
   <img src="icons/icon128.png" alt="Todo List Icon" width="128" height="128">
